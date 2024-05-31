@@ -1,5 +1,5 @@
 # Desafio-controle-de-fluxo
-Desafio, aprendendo java, poo e intellij idea
+Desafio, aprendendo java, intellij idea
 
 ## Linguagem: 
 
